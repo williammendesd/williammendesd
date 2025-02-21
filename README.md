@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=5px&duration=3200&pause=500&color=F7F7F7&center=true&vCenter=true&width=600&lines=Bem-vindo(a)%2C+me+chamo+William!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=5px&duration=3200&pause=3000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Bem-vindo(a)%2C+me+chamo+William!" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">Estudante de Sistemas de Informação na FIAP, com formação técnica em Redes de Computadores pelo SENAI. Meus principais interesses são programação, infraestrutura e música 🎤
